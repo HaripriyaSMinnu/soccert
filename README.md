@@ -1,2 +1,2 @@
-# soccer
+# soccert
 Analyzing soccer data
